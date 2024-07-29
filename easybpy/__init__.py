@@ -1,1 +1,2 @@
+from easybpy import *
 
